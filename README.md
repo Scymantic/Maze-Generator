@@ -16,7 +16,3 @@ As it is it's really just an excersize but it could be adapted to other things q
 For AMA or Questions:
 
   14abarberis@gmail.com
-  
-  *Please have subject headline as: Question/AMA at Scymantic's GitHub: Maze Generator*
-  YOU WILL NOT BE RESPONDED TO UNLESS YOU HAVE THAT HEADLINE
-  This is just to reduce spam
