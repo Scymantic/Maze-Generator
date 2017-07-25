@@ -16,14 +16,6 @@
 
 using namespace::std;
 
-/*
-	The only thing that does not work is th Maze.build() for some reason it always culminates in an infinite loop
-	the next stage of testing would be to manually build a maze and check that all required functions work however the TESTS area
-	below already prooves that they do 
-	If the solution comes in a timely manner the code will be reuploaded as of now though, while the union-find data structure(disjoint set),
-	which is the unerling lesson in this programming assignment, works the overall goal of generating a full maze does not.
-*/
-
 #include<string>
 
 void run();
